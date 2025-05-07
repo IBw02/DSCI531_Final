@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of algorithmic bias in AI syst
 
 ## Contents
 
-- `Merged_Bias_in_AI_Gaming_Final.ipynb`:  
+- `Final_Bias_in_AI_Gaming_Analysis.ipynb`:  
   A unified Jupyter Notebook combining all components of the project, including data preprocessing, bias analysis, model evaluation, and mitigation strategies.
 
 ## Objectives
